@@ -8,21 +8,21 @@ body {
 
 @-webkit-keyframes colorchange {
 
-     0%  {background: #33FFF3;}
-    25%  {background: #78281F;}
-    50%  {background: #117A65;}
-    75%  {background: #DC7633;}
-    100% {background: #9B59B6;}
+     0%  {background: #ee8a8a;}
+    25%  {background: #d28aee;}
+    50%  {background: #8aaaee;}
+    75%  {background: #8aeeaa;}
+    100% {background: #eee68a;}
 
 }
 
 @keyframes colorchange {
 
-     0%  {background: #33FFF3;}
-    25%  {background: #78281F;}
-    50%  {background: #117A65;}
-    75%  {background: #DC7633;}
-    100% {background: #9B59B6;}
+     0%  {background: #ee8a8a;}
+    25%  {background: #d28aee;}
+    50%  {background: #8aaaee;}
+    75%  {background: #8aeeaa;}
+    100% {background: #eee68a;}
 
 }
 
@@ -64,9 +64,9 @@ a.button {
 }
 
 h1{
-  color: #1FBCF3;
+  color: #FFFFFF;
 }
 
 h2{
-  color: #1972D1;
+  color: #FFFFFF;
 }
